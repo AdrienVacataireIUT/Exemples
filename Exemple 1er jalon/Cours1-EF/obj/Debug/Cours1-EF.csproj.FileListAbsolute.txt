@@ -1,0 +1,42 @@
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours1-EF\bin\Debug\DatabaseEf.mdf
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours1-EF\bin\Debug\DatabaseEf_log.ldf
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours1-EF\bin\Debug\Cours1-EF.exe.config
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours1-EF\bin\Debug\Cours1-EF.exe
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours1-EF\bin\Debug\Cours1-EF.pdb
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours1-EF\obj\Debug\Cours1-EF.csprojResolveAssemblyReference.cache
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours1-EF\obj\Debug\Cours1-EF.exe
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours1-EF\obj\Debug\Cours1-EF.pdb
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours1-EF\bin\Debug\EntityFramework.dll
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours1-EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours1-EF\bin\Debug\EntityFramework.xml
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours1-EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours1-EF\bin\Debug\Database2EF.mdf
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours1-EF\bin\Debug\Database2EF_log.ldf
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours1-EF\bin\Debug\Cours1-EF.exe.config
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours1-EF\obj\Debug\Cours1-EF.exe
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours1-EF\obj\Debug\Cours1-EF.pdb
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours1-EF\bin\Debug\Database2EF.mdf
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours1-EF\bin\Debug\Database2EF_log.ldf
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours1-EF\bin\Debug\DatabaseEf.mdf
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours1-EF\bin\Debug\DatabaseEf_log.ldf
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours1-EF\bin\Debug\Cours1-EF.exe
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours1-EF\bin\Debug\Cours1-EF.pdb
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours1-EF\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours1-EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours1-EF\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours1-EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours1-EF\obj\Debug\Cours1-EF.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours1\Cours1-EF\bin\Debug\Database2EF.mdf
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours1\Cours1-EF\bin\Debug\Database2EF_log.ldf
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours1\Cours1-EF\bin\Debug\DatabaseEf.mdf
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours1\Cours1-EF\bin\Debug\DatabaseEf_log.ldf
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours1\Cours1-EF\bin\Debug\Cours1-EF.exe.config
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours1\Cours1-EF\bin\Debug\Cours1-EF.exe
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours1\Cours1-EF\bin\Debug\Cours1-EF.pdb
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours1\Cours1-EF\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours1\Cours1-EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours1\Cours1-EF\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours1\Cours1-EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours1\Cours1-EF\obj\Debug\Cours1-EF.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours1\Cours1-EF\obj\Debug\Cours1-EF.exe
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours1\Cours1-EF\obj\Debug\Cours1-EF.pdb

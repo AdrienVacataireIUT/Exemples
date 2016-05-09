@@ -1,0 +1,17 @@
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours1-TestUnitaire\bin\Debug\Cours1-TestUnitaire.dll
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours1-TestUnitaire\bin\Debug\Cours1-TestUnitaire.pdb
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours1-TestUnitaire\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours1-TestUnitaire\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours1-TestUnitaire\obj\Debug\Cours1-TestUnitaire.csprojResolveAssemblyReference.cache
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours1-TestUnitaire\obj\Debug\Cours1-TestUnitaire.dll
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours1-TestUnitaire\obj\Debug\Cours1-TestUnitaire.pdb
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours1-TestUnitaire\bin\Debug\Cours1-TestUnitaire.dll
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours1-TestUnitaire\bin\Debug\Cours1-TestUnitaire.pdb
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours1-TestUnitaire\obj\Debug\Cours1-TestUnitaire.dll
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours1-TestUnitaire\obj\Debug\Cours1-TestUnitaire.pdb
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours1-TestUnitaire\obj\Debug\Cours1-TestUnitaire.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours1\Cours1-TestUnitaire\bin\Debug\Cours1-TestUnitaire.dll
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours1\Cours1-TestUnitaire\bin\Debug\Cours1-TestUnitaire.pdb
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours1\Cours1-TestUnitaire\obj\Debug\Cours1-TestUnitaire.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours1\Cours1-TestUnitaire\obj\Debug\Cours1-TestUnitaire.dll
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours1\Cours1-TestUnitaire\obj\Debug\Cours1-TestUnitaire.pdb

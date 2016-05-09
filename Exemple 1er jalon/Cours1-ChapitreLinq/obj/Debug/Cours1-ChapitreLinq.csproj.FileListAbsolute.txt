@@ -1,0 +1,18 @@
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours1-ChapitreLinq\bin\Debug\Cours1-ChapitreLinq.exe.config
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours1-ChapitreLinq\bin\Debug\Cours1-ChapitreLinq.exe
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours1-ChapitreLinq\bin\Debug\Cours1-ChapitreLinq.pdb
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours1-ChapitreLinq\obj\Debug\Cours1-ChapitreLinq.csprojResolveAssemblyReference.cache
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours1-ChapitreLinq\obj\Debug\Cours1-ChapitreLinq.exe
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours1-ChapitreLinq\obj\Debug\Cours1-ChapitreLinq.pdb
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours1-ChapitreLinq\bin\Debug\Cours1-ChapitreLinq.exe.config
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours1-ChapitreLinq\bin\Debug\Cours1-ChapitreLinq.exe
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours1-ChapitreLinq\bin\Debug\Cours1-ChapitreLinq.pdb
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours1-ChapitreLinq\obj\Debug\Cours1-ChapitreLinq.exe
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours1-ChapitreLinq\obj\Debug\Cours1-ChapitreLinq.pdb
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours1-ChapitreLinq\obj\Debug\Cours1-ChapitreLinq.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours1\Cours1-ChapitreLinq\bin\Debug\Cours1-ChapitreLinq.exe.config
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours1\Cours1-ChapitreLinq\bin\Debug\Cours1-ChapitreLinq.exe
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours1\Cours1-ChapitreLinq\bin\Debug\Cours1-ChapitreLinq.pdb
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours1\Cours1-ChapitreLinq\obj\Debug\Cours1-ChapitreLinq.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours1\Cours1-ChapitreLinq\obj\Debug\Cours1-ChapitreLinq.exe
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours1\Cours1-ChapitreLinq\obj\Debug\Cours1-ChapitreLinq.pdb
