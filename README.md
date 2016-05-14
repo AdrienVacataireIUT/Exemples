@@ -9,5 +9,11 @@ Il y aura un exemple par jalon qui pourra servir de base pour la compréhension 
 <li>Découverte du C# (tableaux, listes, etc.).</li>
 <li>Quelques utilisations de LINQ.</li>
 <li>Implémentation d'EF avec les Data Annotations et aec l'API Fluent.</li>
-<li>Tests unitaires/li>
+<li>Tests unitaires</li>
+</ul>
+
+## A venir
+<ul>
+<li>Un exemple de Business Logic Layer</li>
+<li>Un exemple de Many-To-Many avec un "Extra-Field"</li>
 </ul>
