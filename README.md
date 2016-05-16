@@ -12,8 +12,13 @@ Il y aura un exemple par jalon qui pourra servir de base pour la compréhension 
 <li>Tests unitaires</li>
 </ul>
 
+## BusinessLayer - Exemple
+Exemple complet d'un projet avec un projet console, une BusinessLayer et un projet Modèle. Peut servir de "base" pour le TP! (Pensez à lire les commentaires)
+
 ## A venir
 <ul>
-<li>Un exemple de Business Logic Layer</li>
 <li>Un exemple de Many-To-Many avec un "Extra-Field"</li>
 </ul>
+
+## Attention 
+Tous les projets sont livrés avec une base au format .mdf (intégrée dans Visual Studio). Pensez à recréer une base vierge et à modifier la chaine de connexion dans les fichiers app.config
