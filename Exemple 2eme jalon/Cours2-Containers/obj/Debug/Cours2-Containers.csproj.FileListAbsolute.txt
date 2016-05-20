@@ -1,0 +1,41 @@
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours2-Containers\bin\Debug\Cours2-Containers.exe.config
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours2-Containers\obj\Debug\Wrap.baml
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours2-Containers\obj\Debug\Stack.baml
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours2-Containers\obj\Debug\Wrap.g.cs
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours2-Containers\obj\Debug\Stack.g.cs
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours2-Containers\obj\Debug\App.g.cs
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours2-Containers\obj\Debug\Cours2-Containers_MarkupCompile.cache
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours2-Containers\obj\Debug\Cours2-Containers.g.resources
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours2-Containers\obj\Debug\Cours2_Containers.Properties.Resources.resources
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours2-Containers\obj\Debug\Cours2-Containers.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours2-Containers\bin\Debug\Cours2-Containers.exe
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours2-Containers\bin\Debug\Cours2-Containers.pdb
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours2-Containers\obj\Debug\Cours2-Containers.exe
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours2-Containers\obj\Debug\Cours2-Containers.pdb
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours2-Containers\obj\Debug\Dock.baml
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours2-Containers\obj\Debug\Dock.g.cs
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours2-Containers\obj\Debug\Canvas.baml
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours2-Containers\obj\Debug\Canvas.g.cs
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours2-Containers\obj\Debug\Grid.baml
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours2-Containers\obj\Debug\Grid.g.cs
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours2\Cours2-Containers\bin\Debug\Cours2-Containers.exe.config
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours2\Cours2-Containers\obj\Debug\Cours2-Containers.exe
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours2\Cours2-Containers\obj\Debug\Cours2-Containers.pdb
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours2\Cours2-Containers\bin\Debug\Cours2-Containers.exe
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours2\Cours2-Containers\bin\Debug\Cours2-Containers.pdb
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours2\Cours2-Containers\obj\Debug\Cours2-Containers.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours2\Cours2-Containers\obj\Debug\Canvas.baml
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours2\Cours2-Containers\obj\Debug\Dock.baml
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours2\Cours2-Containers\obj\Debug\Grid.baml
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours2\Cours2-Containers\obj\Debug\Wrap.baml
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours2\Cours2-Containers\obj\Debug\Stack.baml
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours2\Cours2-Containers\obj\Debug\Canvas.g.cs
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours2\Cours2-Containers\obj\Debug\Dock.g.cs
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours2\Cours2-Containers\obj\Debug\Grid.g.cs
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours2\Cours2-Containers\obj\Debug\Wrap.g.cs
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours2\Cours2-Containers\obj\Debug\Stack.g.cs
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours2\Cours2-Containers\obj\Debug\App.g.cs
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours2\Cours2-Containers\obj\Debug\Cours2-Containers_MarkupCompile.cache
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours2\Cours2-Containers\obj\Debug\Cours2-Containers.g.resources
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours2\Cours2-Containers\obj\Debug\Cours2_Containers.Properties.Resources.resources
+C:\Users\User\Documents\Mes Documents\Vacation\Support\TD découpés\TD-Cours2\Cours2-Containers\obj\Debug\Cours2-Containers.csproj.GenerateResource.Cache

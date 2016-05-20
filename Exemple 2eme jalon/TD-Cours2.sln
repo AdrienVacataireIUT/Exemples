@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cours2-Containers", "Cours2-Containers\Cours2-Containers.csproj", "{F5AF1C11-EBF6-4514-B3EB-D1C086DE42BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cours2-ExempleMVVM", "Cours2-ExempleMVVM\Cours2-ExempleMVVM.csproj", "{0D28ABB3-5273-4578-AE6B-2ACEB33014B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5AF1C11-EBF6-4514-B3EB-D1C086DE42BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5AF1C11-EBF6-4514-B3EB-D1C086DE42BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5AF1C11-EBF6-4514-B3EB-D1C086DE42BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5AF1C11-EBF6-4514-B3EB-D1C086DE42BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D28ABB3-5273-4578-AE6B-2ACEB33014B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D28ABB3-5273-4578-AE6B-2ACEB33014B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D28ABB3-5273-4578-AE6B-2ACEB33014B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D28ABB3-5273-4578-AE6B-2ACEB33014B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

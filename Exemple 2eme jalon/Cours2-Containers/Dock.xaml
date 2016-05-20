@@ -1,0 +1,12 @@
+﻿<Window x:Class="Cours2_Containers.Dock"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Dock" Height="300" Width="300">
+    <DockPanel LastChildFill="True">
+        <Button Content="Top" Background="Aqua" DockPanel.Dock="Top"/>
+        <Button Content="Bottom" Background="Yellow" DockPanel.Dock="Bottom"/>
+        <Button Content="Left" Width="60" Background="Green" DockPanel.Dock="Left"/>
+        <Button Content="Right" Background="Red" DockPanel.Dock="Right"/>
+        <Button Content="Center" Background="White"/>
+    </DockPanel>
+</Window>
