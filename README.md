@@ -15,6 +15,12 @@ Il y aura un exemple par jalon qui pourra servir de base pour la compréhension 
 ## BusinessLayer - Exemple
 Exemple complet d'un projet avec un projet console, une BusinessLayer et un projet Modèle. Peut servir de "base" pour le TP! (Pensez à lire les commentaires)
 
+## Exemples du 2ème jalon
+<ul>
+<li>Les layouts</li>
+<li>Exemple complet WPF - MVVM - XAML</li>
+</ul>
+
 ## A venir
 <ul>
 <li>Un exemple de Many-To-Many avec un "Extra-Field"</li>
