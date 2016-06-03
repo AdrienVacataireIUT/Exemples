@@ -21,6 +21,12 @@ Exemple complet d'un projet avec un projet console, une BusinessLayer et un proj
 <li>Exemple complet WPF - MVVM - XAML</li>
 </ul>
 
+## Exemples du 3ème jalon
+<ul>
+<li>Configuration type d'un service WCF</li>
+<li>Exemple d'un service WCF</li>
+</ul>
+
 ## A venir
 <ul>
 <li>Un exemple de Many-To-Many avec un "Extra-Field"</li>
