@@ -1,0 +1,10 @@
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours3\bin\Cours3.dll.config
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours3\bin\Cours3.dll
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours3\bin\Cours3.pdb
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours3\obj\Debug\Cours3.dll
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours3\obj\Debug\Cours3.pdb
+D:\a.chargueraud\Mes documents\Developpement\Support\SolutionTest\Cours3\obj\Debug\Cours3 - Wcf - Soap.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours3\bin\Cours3.dll
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours3\bin\Cours3.pdb
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours3\obj\Debug\Cours3.dll
+C:\Users\User\Documents\Mes Documents\Vacation\Support\SolutionTest\Cours3\obj\Debug\Cours3.pdb
