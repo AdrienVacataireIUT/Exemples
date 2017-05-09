@@ -27,10 +27,5 @@ Exemple complet d'un projet avec un projet console, une BusinessLayer et un proj
 <li>Exemple d'un service WCF</li>
 </ul>
 
-## A venir
-<ul>
-<li>Un exemple de Many-To-Many avec un "Extra-Field"</li>
-</ul>
-
 ## Attention 
 Tous les projets sont livrés avec une base au format .mdf (intégrée dans Visual Studio). Pensez à recréer une base vierge et à modifier la chaine de connexion dans les fichiers app.config
